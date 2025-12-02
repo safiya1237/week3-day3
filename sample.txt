@@ -1,0 +1,15 @@
+Java file handling is very important.
+It allows programs to read and write data.
+This is a sample text for testing.
+We will use FileReader and BufferedReader.
+Counting words, lines and characters is easy.
+Practice makes you perfect in coding.
+Always handle exceptions properly in Java.
+BufferedReader reads line by line efficiently.
+FileReader reads character by character.
+This file contains multiple lines of text.
+We are learning Java step by step.
+Coding improves logical thinking skills.
+Java is powerful and platform independent.
+Let’s analyze this file completely.
+End of the sample file.
